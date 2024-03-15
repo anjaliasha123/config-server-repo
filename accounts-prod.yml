@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to First Capital Bank accounts related Prod APIs"
   contactDetails:
-    name: "Silver John - Product Owner"
+    name: "Silver John - Product Owner New"
     email: "{cipher}735ef48b9ea7d3a761e07f0dff027852e03899e7d1f61c27f533ccbbb2aa9eb79f1be5591e036e6cc3168f8ac6991d78"
   onCallSupport:
     - (888) 555-1234
